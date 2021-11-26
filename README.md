@@ -1,12 +1,15 @@
 ## Hi, I'm Shashwat.👋
 
+<br />
 
 An inquisitive pre-final year Computer Science student proficient in researching, coding and designing solutions. Challenges intrigue me.
 Currently, I thrive in the Bermuda triangle of my own: Competitive Coding, Machine Learning and DevOps. 
 
+<br />
 
 👀 **INTERESTS:** DevOps, Machine Learning, Competitive Coding, BigData Analytics and Content Writing. 
 
+<br />
 
 🌱 **LANGUAGES & TOOLS:**
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -25,9 +28,10 @@ Currently, I thrive in the Bermuda triangle of my own: Competitive Coding, Machi
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
-
+<br />
 
 📫 **CONNECT WITH ME:** [<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/shashwat-agarwal-3777a3191/) [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:agr.shashwat@gmail.com)
 
+<br />
 
 - ⚡ **FUN FACT:** I love reading novels and playing violin at leisure.
