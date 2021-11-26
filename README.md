@@ -1,11 +1,11 @@
-## Hi, I am Shashwat.👋
+## Hi, I'm Shashwat.👋
 
 
 An inquisitive pre-final year Computer Science student proficient in researching, coding and designing solutions. Challenges intrigue me.
 Currently, I thrive in the Bermuda triangle of my own: Competitive Coding, Machine Learning and DevOps. 
 
 
-👀 **INTERESTS:** Machine Learning, Competitive Coding, DevOps, BigData Analytics and Content Writing. 
+👀 **INTERESTS:** DevOps, Machine Learning, Competitive Coding, BigData Analytics and Content Writing. 
 
 
 🌱 **LANGUAGES & TOOLS:**
