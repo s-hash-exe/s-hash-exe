@@ -3,11 +3,11 @@
 <br />
 
 An inquisitive pre-final year Computer Science student proficient in researching, coding and designing solutions. Challenges intrigue me.
-Currently, I thrive in the Bermuda triangle of my own: DevOps, Competitive programming and Machine Learning. 
+Currently, I thrive in the Bermuda triangle of my own: Competitive programming, DevOps and Flutter Development. 
 
 <br />
 
-👀 **INTERESTS:** DevOps, Machine Learning, Competitive programming, BigData Analytics and Content Writing. 
+👀 **INTERESTS:** DevOps, Machine Learning, Competitive programming, Flutter Development,BigData Analytics and Content Writing. 
 
 <br />
 
